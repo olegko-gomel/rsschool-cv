@@ -1,0 +1,15 @@
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 18px;
+  color: rgb(180, 238, 5);
+  background: url("stars.jpg");
+}
+.title {
+  text-align: center;
+  text-decoration: underline;
+}
+ol {
+  font-family: Tahoma, sans-serif;
+  font-size: 18px;
+  color: rgb(220, 139, 33);
+}
