@@ -1,8 +1,10 @@
 body {
+  margin: 0%;
   font-family: Helvetica, sans-serif;
-  font-size: 18px;
+  font-size: 15px;
+  line-height: 1,5;
   color: rgb(180, 238, 5);
-  background: url("stars.jpg");
+  background-color: #222;
 }
 .title {
   text-align: center;
@@ -12,4 +14,15 @@ ol {
   font-family: Tahoma, sans-serif;
   font-size: 18px;
   color: rgb(220, 139, 33);
+}
+/* Nav */
+.nav {
+  text-align: center;
+}
+.nav-link {
+  display: inline-block;
+  padding: 8px 12px;
+  color: rgb(220, 139, 33);
+  text-decoration: none;
+
 }
